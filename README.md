@@ -1,4 +1,4 @@
-## Hi there 👋
+# Abount me
 
 <!--
 **Orion-83/Orion-83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Kurze Zusammenfassung -> noch erste Version -> es wird noch eine mehr ausgearbeitete folgen
+Meine Name ist Sebastian Mädler und Programmiere bereits seit Jahren mit einigen Pausen (z.b. in den letzten zwei Jahren bin ich eher weniger zu eigenen Projekten gekommen aus persönlichen Gründen). Ich habe im laufe der Jahre so denke ich ziemlich alle aktuell bedeutenden Programmier und Scriptsprachen mal benutzt. Nicht zwingend weil ich alle mal Ausprobieren wollte sondern weil es aus bestimmten Gründen manchmal notwendig war (z.B. bei einem Lehrgang und JavaScript).
+
+Meine Hauptinteressen liegen
+bei C#/WPF
+Python
+und „Spielereien“ mit dem Rasypberry PI
+
+Teilweise noch unter Windows (C#/WPF) aber in erster Linie und Linux-Distributionen.
