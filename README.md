@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Kurze Zusammenfassung -> noch erste Version -> es wird noch eine mehr ausgearbeitete folgen
+Eine kurze temporäre Zusammenfassung, die noch ÜBerarbeitet wird.
+
 Meine Name ist Sebastian Mädler und Programmiere bereits seit Jahren mit einigen Pausen (z.b. in den letzten zwei Jahren bin ich eher weniger zu eigenen Projekten gekommen aus persönlichen Gründen). Ich habe im laufe der Jahre so denke ich ziemlich alle aktuell bedeutenden Programmier und Scriptsprachen mal benutzt. Nicht zwingend weil ich alle mal Ausprobieren wollte sondern weil es aus bestimmten Gründen manchmal notwendig war (z.B. bei einem Lehrgang und JavaScript).
 
 Meine Hauptinteressen liegen
