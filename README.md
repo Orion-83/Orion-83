@@ -27,4 +27,4 @@ Meine Hauptinteressen liegen aktuell auf
 
 Teilweise noch unter Windows (C#/WPF) aber in erster Linie und Linux-Distributionen (Debian Varianten).
 
-Ich bin gerade dabei einige kleine Projekte umzusetzen und auch meine Website wieder etwas auf zu Aktualisieren, da ich aus persönlichen GRünden eine Weile nicht mehr so viel Zeit dafür hatte. Was zwar im Prnzip immer noch so ist, aber irgendwas braucht man als Ausgleich.
+Ich bin gerade dabei einige kleine Projekte umzusetzen und auch meine Website wieder etwas zu Aktualisieren/Ergänzen, da ich aus persönlichen Gründen eine Weile nicht mehr so viel Zeit dafür hatte. Was zwar im Prinzip immer noch so ist, aber irgendwas braucht man als Ausgleich.
