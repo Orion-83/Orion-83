@@ -30,6 +30,7 @@ Teilweise noch unter Windows (C#/WPF) aber in erster Linie und Linux-Distributio
 Ich bin gerade dabei einige kleine Projekte umzusetzen und auch meine Website wieder etwas zu Aktualisieren/Ergänzen, da ich aus persönlichen Gründen eine Weile nicht mehr so viel Zeit dafür hatte. Was zwar im Prinzip immer noch so ist, aber irgendwas braucht man als Ausgleich.
 
 
+---
 
 A brief, temporary summary that is still being revised.
 
