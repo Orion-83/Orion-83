@@ -45,3 +45,7 @@ some additional languages when necessary, e.g., Shell
 Partly still on Windows (C#/WPF), but primarily on Linux distributions (Debian variants).
 
 I’m currently working on a few small projects and also updating/adding to my website again, since I haven’t had much time for it lately due to personal reasons. Which is still basically the case, but you need something to balance things out.
+
+
+
+---
