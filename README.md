@@ -28,3 +28,19 @@ Meine Hauptinteressen liegen aktuell auf
 Teilweise noch unter Windows (C#/WPF) aber in erster Linie und Linux-Distributionen (Debian Varianten).
 
 Ich bin gerade dabei einige kleine Projekte umzusetzen und auch meine Website wieder etwas zu Aktualisieren/Ergänzen, da ich aus persönlichen Gründen eine Weile nicht mehr so viel Zeit dafür hatte. Was zwar im Prinzip immer noch so ist, aber irgendwas braucht man als Ausgleich.
+
+
+
+A brief, temporary summary that is still being revised.
+
+My name is Sebastian Mädler, and I’ve been programming for years, with a few breaks here and there. Over the years, I think I’ve used just about every major programming and scripting language currently in use. Not necessarily because I wanted to try them all out, but because it was sometimes necessary for specific reasons (e.g., during a training course and with JavaScript), and to varying degrees accordingly.
+
+My main interests currently lie in
+
+C#/WPF
+Python
+and “tinkering” with the Raspberry Pi
+some additional languages when necessary, e.g., Shell
+Partly still on Windows (C#/WPF), but primarily on Linux distributions (Debian variants).
+
+I’m currently working on a few small projects and also updating/adding to my website again, since I haven’t had much time for it lately due to personal reasons. Which is still basically the case, but you need something to balance things out.
